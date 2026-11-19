@@ -5,9 +5,11 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=18&amp;pause=1800&amp;color=2EA043&amp;center=true&amp;vCenter=true&amp;width=420&amp;lines=Building+Python+APIs;Exploring+AI+agents;Building+RAG+applications" alt="Building Python APIs, exploring AI agents, and building RAG applications" />
 </p>
 
-## GitHub contributions
+## Currently exploring
 
-[![Deshan Tharanga’s contribution calendar](https://ghchart.rshah.org/2ea043/DeshanTharanga)](https://github.com/DeshanTharanga#contribution-activity)
+- **AI agents** · Managing conversation history and adding human approval steps in LangGraph.
+- **Document search** · Comparing vector retrieval and ranking approaches for RAG.
+- **Backend systems** · Running background jobs with Celery and Redis.
 
 ## Tech stack
 
