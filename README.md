@@ -7,6 +7,7 @@
 
 ## Currently exploring
 
+- **Machine learning & deep learning** · Interested in learning how AI models are trained and evaluated.
 - **AI agents** · Managing conversation history and adding human approval steps in LangGraph.
 - **Document search** · Comparing vector retrieval and ranking approaches for RAG.
 
