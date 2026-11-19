@@ -9,7 +9,6 @@
 
 - **AI agents** · Managing conversation history and adding human approval steps in LangGraph.
 - **Document search** · Comparing vector retrieval and ranking approaches for RAG.
-- **Backend systems** · Running background jobs with Celery and Redis.
 
 ## Tech stack
 
@@ -17,7 +16,7 @@
 | --- | --- |
 | Languages & web | ![Python, TypeScript, JavaScript, Angular](https://skillicons.dev/icons?i=py,ts,js,angular&theme=dark) |
 | AI & retrieval | LangChain · LangGraph · OpenAI API · Pinecone · Ollama |
-| APIs & data | ![FastAPI, PostgreSQL, Redis](https://skillicons.dev/icons?i=fastapi,postgres,redis&theme=dark) <br /> SQLAlchemy · Alembic · Celery |
+| APIs & data | ![FastAPI, PostgreSQL](https://skillicons.dev/icons?i=fastapi,postgres&theme=dark) <br /> SQLAlchemy · Alembic |
 | Developer tools | ![Git, Docker, PyCharm, VS Code](https://skillicons.dev/icons?i=git,docker,pycharm,vscode&theme=dark) |
 
 ## GitHub stats
